@@ -6,6 +6,7 @@ void main() {
   runApp(const MyWidget());
 }
 
+// flutter bloc project;
 class MyWidget extends StatelessWidget {
   const MyWidget({super.key});
 
